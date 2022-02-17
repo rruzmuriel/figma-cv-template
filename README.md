@@ -18,15 +18,15 @@
 <br/>
 ## 5 Pasos para editarlo ✍️ 
 ```
-1️⃣ Regístrate en Figma
-2️⃣ Accede al template
-3️⃣ Duplíca el frame
+1️⃣ Accede al fichero
+2️⃣ Regístrate en Figma
+3️⃣ Duplica el template
 4️⃣ Actualiza tus cambios
-5️⃣ Descarga el cv-template
+5️⃣ Descarga el cv-template pdf
 ```
 
-<a target="_blank" href="https://www.figma.com/file/WgCTmMpgCJjKBQExhkVQP8/CV-Template" title="Figma Resume / CV">Disponible aquí</a> ✅
+<a target="_blank" href="https://www.figma.com/file/WgCTmMpgCJjKBQExhkVQP8/CV-Template" title="Figma Resume / CV"> Fichero disponible aquí</a> ✅
 <br/>
 
-![figma portfolio](./figma-cv-template.jpg "figma cv -template")
+![figma portfolio](./figma-cv-template-yellow.jpg "figma cv -template")
 
