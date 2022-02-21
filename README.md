@@ -2,7 +2,7 @@
 ## Impacta en tiempo récord 🚀
 🎨 &nbsp;Diseña tu CV digital con esta plantilla básica<br/>
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗣️ &nbsp;Elevator Pitch: Propuesta de valor<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗣️ &nbsp;Resumen: Propuesta de valor<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎒 &nbsp;Experiencia<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 &nbsp;Formación<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 &nbsp;Habilidades<br/>
