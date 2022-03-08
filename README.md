@@ -25,7 +25,7 @@
 5️⃣ Descarga el cv-template pdf
 ```
 
-<a target="_blank" href="https://www.figma.com/community/file/1082989635884253421/CV---Resume-%2F-Figma-Template" title="Figma Resume / CV"> Fichero disponible aquí</a> ✅
+<a href="https://www.figma.com/community/file/1082989635884253421/CV---Resume-%2F-Figma-Template" target="_blank" title="Figma Resume / CV"> Fichero disponible aquí</a> ✅
 <br/>
 
 ![figma portfolio](./figma-cv-template-yellow.jpg "figma cv -template")
